@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FileExplorer2</string>
+    <string name="Open_Drawer">Open Navigation Drawer</string>
+    <string name="Close_Drawer">Close Navigation Drawer</string>
+    <string name="file_name_png">File Name.png</string>
+    <string name="path">Path</string>
+    <string name="images">Images</string>
+    <string name="videos">Videos</string>
+    <string name="musics">Musics</string>
+    <string name="todo">TODO</string>
+    <string name="docs">Docs</string>
+    <string name="downloads">Downloads</string>
+    <string name="apks">APKS</string>
+    <string name="recents">Recents</string>
+    <string name="file_explorer">File Explorer</string>
+    <string name="by_santanu">By Santanu</string>
+    <string name="details">Details</string>
+    <string name="home">Home</string>
+    <string name="internal_storage">Internal Storage</string>
+    <string name="sd_card">SD Card</string>
+    <string name="more">More</string>
+    <string name="about">About</string>
+</resources>
